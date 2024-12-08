@@ -1,0 +1,2 @@
+# obsort
+Obsidian Sorting
